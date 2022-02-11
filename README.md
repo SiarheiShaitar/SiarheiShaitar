@@ -1,4 +1,4 @@
-[![Header](https://github.com/SiarheiShaitar/SiarheiShaitar/blob/main/Header.jpeg)]
+[![Header](https://github.com/SiarheiShaitar/SiarheiShaitar/blob/main/Header.jpeg)
 
 ## QA Engineer and Liverpool FC Supporter
 
