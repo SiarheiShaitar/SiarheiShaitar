@@ -1,6 +1,6 @@
 ![Header](https://github.com/SiarheiShaitar/SiarheiShaitar/blob/main/Header.jpeg)
 
-## Welcome To My GitHub profile
+## Welcome To My GitHub Profile
 
 ### Tools
 [![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=F88c00)](https://github.com/SiarheiShaitar/Branches/tree/postman)
