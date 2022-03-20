@@ -4,7 +4,7 @@
 
 ### Tools
 [![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=F88c00)](https://github.com/SiarheiShaitar/Branches/tree/postman)
-[![Terminal](https://img.shields.io/badge/-Terminal-090909?style=for-the-badge&logo=line&logoColor=47C5FB)](https://github.com/SiarheiShaitar/Homeworks/blob/main/hw_terminal1.txt)
+[![Terminal](https://img.shields.io/badge/-Terminal-090909?style=for-the-badge&logo=line&logoColor=47C5FB)](https://github.com/SiarheiShaitar/Homeworks/tree/main/Terminal)
 ![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=C&logoColor=E5D3FF)
 ![Fidler](https://img.shields.io/badge/-Fidler-090909?style=for-the-badge&logo=.net&logoColor=FBA0E3)
 [![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=006488)](https://github.com/SiarheiShaitar/Homeworks/tree/main/SQL)
